@@ -1,1 +1,0 @@
-# telnyx-wdio-allure-docker-

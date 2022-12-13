@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".lghbwG strong\"}\n  (Session info: chrome=108.0.5359.71)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x00BFF243]\n\t(No symbol) [0x00B87FD1]\n\t(No symbol) [0x00A7D04D]\n\t(No symbol) [0x00AAC0B0]\n\t(No symbol) [0x00AAC22B]\n\t(No symbol) [0x00ADE612]\n\t(No symbol) [0x00AC85D4]\n\t(No symbol) [0x00ADC9EB]\n\t(No symbol) [0x00AC8386]\n\t(No symbol) [0x00AA163C]\n\t(No symbol) [0x00AA269D]\n\tGetHandleVerifier [0x00E99A22+2655074]\n\tGetHandleVerifier [0x00E8CA24+2601828]\n\tGetHandleVerifier [0x00CA8C0A+619850]\n\tGetHandleVerifier [0x00CA7830+614768]\n\t(No symbol) [0x00B905FC]\n\t(No symbol) [0x00B95968]\n\t(No symbol) [0x00B95A55]\n\t(No symbol) [0x00BA051B]\n\tBaseThreadInitThunk [0x76BAFEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7B8E+238]\n"
+}
