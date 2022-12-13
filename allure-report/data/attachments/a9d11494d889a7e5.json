@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"react-account-dropdown .tx-2aP2j0\"}\n  (Session info: chrome=108.0.5359.71)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x0069F243]\n\t(No symbol) [0x00627FD1]\n\t(No symbol) [0x0051D04D]\n\t(No symbol) [0x0054C0B0]\n\t(No symbol) [0x0054C22B]\n\t(No symbol) [0x0057E612]\n\t(No symbol) [0x005685D4]\n\t(No symbol) [0x0057C9EB]\n\t(No symbol) [0x00568386]\n\t(No symbol) [0x0054163C]\n\t(No symbol) [0x0054269D]\n\tGetHandleVerifier [0x00939A22+2655074]\n\tGetHandleVerifier [0x0092CA24+2601828]\n\tGetHandleVerifier [0x00748C0A+619850]\n\tGetHandleVerifier [0x00747830+614768]\n\t(No symbol) [0x006305FC]\n\t(No symbol) [0x00635968]\n\t(No symbol) [0x00635A55]\n\t(No symbol) [0x0064051B]\n\tBaseThreadInitThunk [0x76BAFEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7B8E+238]\n"
+}

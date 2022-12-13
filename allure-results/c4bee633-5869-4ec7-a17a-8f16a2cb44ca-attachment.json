@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[aria-labelledby=\"filter-by-content\"] > .sc-afdc1d86-3 > :nth-child(1) > .Text-sc-5o8owa-0\"}\n  (Session info: chrome=108.0.5359.71)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x00EEF243]\n\t(No symbol) [0x00E77FD1]\n\t(No symbol) [0x00D6D04D]\n\t(No symbol) [0x00D9C0B0]\n\t(No symbol) [0x00D9C22B]\n\t(No symbol) [0x00DCE612]\n\t(No symbol) [0x00DB85D4]\n\t(No symbol) [0x00DCC9EB]\n\t(No symbol) [0x00DB8386]\n\t(No symbol) [0x00D9163C]\n\t(No symbol) [0x00D9269D]\n\tGetHandleVerifier [0x01189A22+2655074]\n\tGetHandleVerifier [0x0117CA24+2601828]\n\tGetHandleVerifier [0x00F98C0A+619850]\n\tGetHandleVerifier [0x00F97830+614768]\n\t(No symbol) [0x00E805FC]\n\t(No symbol) [0x00E85968]\n\t(No symbol) [0x00E85A55]\n\t(No symbol) [0x00E9051B]\n\tBaseThreadInitThunk [0x76BAFEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7B8E+238]\n"
+}
