@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ":nth-child(1) > .text-truncate"
+}

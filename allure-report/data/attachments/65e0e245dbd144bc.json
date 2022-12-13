@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "// div [@class=\"sc-438b0f02-1 dTViGT\"] // a"
+}

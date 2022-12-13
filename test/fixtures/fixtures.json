@@ -1,0 +1,11 @@
+
+  {
+      "validEmail": "zblashchuk@gmail.com",
+      "validPassword": "Qwerty123456*",
+      "invalidEmail": "zblashchukzzz@gmail.com",
+      "wrongEmailFormat": "z",
+  
+    "firstName": "Yana",
+    "lastName": "Yanosh",
+    "companyName": "YY company"
+  }
